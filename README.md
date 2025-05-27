@@ -2,8 +2,8 @@
 Sistem Informasi RT 05
 
 ## Login
-username : perri    
-password : perri1414
+username : admin     
+password : admin
 
 ## Beranda
 ![](preview1.png)
